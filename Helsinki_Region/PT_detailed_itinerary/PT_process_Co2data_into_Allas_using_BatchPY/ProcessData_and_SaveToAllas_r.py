@@ -3,7 +3,7 @@ import h3
 import geopandas as gpd
 import shapely
 
-## revised # allas_access_key = "63769e7e7bb24ba99431d1f84bb6daf7" allas_secret_key = "40e91cf1aaf349928359f49b75132847" 
+
 
 
 EM_BUS_PATH = "Data_CO2/emissions_bus_w_engine.csv"  # <-- set to your em_bus CSV
